@@ -869,8 +869,8 @@ class AmongFreeplayState extends MusicBeatState
 					FlxColor.fromRGB(38, 127, 230),
 					FROM_STORY_MODE,
 					['o2'],
-					0,
-				],      true
+					0
+				],      
 				[
 					"Voting Time",
 					"votingtime",
