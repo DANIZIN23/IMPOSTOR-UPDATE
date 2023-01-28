@@ -76,7 +76,7 @@ class AmongStoryMenuState extends MusicBeatState
 	//                             red[0], green[1], yellowWeek[2] black[3] maroon[4] grey[5] pink[6] jorsawsee?[7] henry[8] tomong[9] loggo[10] alpha[11]
 	var unlockedWeek:Array<Bool> = [true, true, true, true, true, true, true, true, true, true, true, true]; // weeks in order of files in preload/weeks
 
-	// var unlockedWeek:Array<Bool> = [true, true, true, true, true, true, true, true, true, true, true, true];
+	// 
 	var localFinaleState:FinaleState;
 	var finaleAura:FlxSprite;
 
