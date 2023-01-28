@@ -3,6 +3,7 @@ package;
 import flixel.FlxG;
 import flixel.FlxState;
 import flixel.util.FlxColor;
+import hxcodec.VideoHandler;
 
 using StringTools;
 
