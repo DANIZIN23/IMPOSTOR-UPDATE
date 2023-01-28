@@ -3,6 +3,7 @@ package;
 import flixel.FlxBasic;
 import flixel.FlxG;
 import sys.FileSystem;
+import hxcodec.VideoHandler;
 
 class FlxVideo extends FlxBasic
 {
