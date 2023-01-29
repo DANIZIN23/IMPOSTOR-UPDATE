@@ -44,7 +44,7 @@ class ClientPrefs
 	];
 	// should be enough if u add more stuff fuck you >:(
 	public static var forceUnlockedSongs:Array<FreeplayWeek>;
-	public static var finaleState:FinaleState = UNLOCKED;
+	public static var finaleState:FinaleState = COMPLETED;
 
 	public static var keyBinds:Map<String, Array<FlxKey>> = [
 		'note_left' => [A, LEFT],
