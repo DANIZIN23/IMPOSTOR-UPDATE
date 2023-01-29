@@ -64,6 +64,8 @@ jobs:
           haxelib git extension-webm https://github.com/Sirox228/extension-webm
           haxelib git flixel https://github.com/MateuzinhoX02/flixel
           haxelib git flixel-addons https://github.com/ninjamuffin99/flixel-addons
+          haxelib git extension-androidtools https://github.com/MAJigsaw77/extension-androidtools
+          haxelib gif hxCodec https://github.com/MAJigsaw77/hxCodec
           haxelib list
 
       - name: Create Version Tag
